@@ -1,0 +1,188 @@
+Train 1:
+Wednesday Almaty 13:00 42
+Train 2:
+Monday Almaty 19:45 30
+Train 3:
+Thursday Alushta 14:09 50
+Train 4:
+Friday Alushta 18:25 33
+Train 5:
+Friday Amsterdam 07:34 46
+Train 6:
+Monday Amsterdam 08:00 FINISHED
+Train 7:
+Thursday Amsterdam 19:43 60
+Train 8:
+Wednesday Baranovichi 08:45 50
+Train 9:
+Friday Baranovichi 13:50 50
+Train 10:
+Tuesday Belgrade 09:34 40
+Train 11:
+Monday Berlin 07:00 FINISHED
+Train 12:
+Wednesday Berlin 12:00 35
+Train 13:
+Sunday Bern 13:55 12
+Train 14:
+Tuesday Bern 23:15 FINISHED
+Train 15:
+Friday Bern 23:15 65
+Train 16:
+Friday Borisov 07:45 50
+Train 17:
+Sunday Borisov 09:15 47
+Train 18:
+Wednesday Borisov 15:45 35
+Train 19:
+Friday Borovlyani 15:50 FINISHED
+Train 20:
+Thursday Bratislava 19:30 39
+Train 21:
+Thursday Brest 11:29 13
+Train 22:
+Tuesday Brest 16:21 FINISHED
+Train 23:
+Sunday Brussel 15:03 45
+Train 24:
+Sunday Brussel 22:45 43
+Train 25:
+Friday Bucharest 13:28 35
+Train 26:
+Wednesday Gdansk 17:54 50
+Train 27:
+Tuesday Gomel 13:08 45
+Train 28:
+Saturday Gomel 14:37 55
+Train 29:
+Tuesday Gomel 19:00 53
+Train 30:
+Friday Hamburg 11:22 35
+Train 31:
+Friday Hamburg 21:10 60
+Train 32:
+Wednesday Helsinki 18:43 50
+Train 33:
+Monday Helsinki 19:10 59
+Train 34:
+Monday Hradno 14:00 FINISHED
+Train 35:
+Thursday Hrodno 09:57 35
+Train 36:
+Wednesday Hrodno 10:12 45
+Train 37:
+Sunday Hrodno 18:33 35
+Train 38:
+Saturday Katowice 13:27 55
+Train 39:
+Wednesday Katowice 19:27 35
+Train 40:
+Tuesday Kiev 09:02 50
+Train 41:
+Thursday Kiev 14:31 40
+Train 42:
+Sunday Kiev 22:30 55
+Train 43:
+Tuesday Kishinev 12:25 41
+Train 44:
+Tuesday Kishinev 17:09 55
+Train 45:
+Sunday Krakow 11:35 38
+Train 46:
+Thursday Krakow 14:45 35
+Train 47:
+Thursday Krakow 18:03 40
+Train 48:
+Sunday Krakow 21:02 55
+Train 49:
+Thursday Lida 07:15 56
+Train 50:
+Friday Lida 07:54 45
+Train 51:
+Monday Lodz 08:16 40
+Train 52:
+Tuesday Lodz 09:05 46
+Train 53:
+Monday Lviv 08:45 45
+Train 54:
+Saturday Lviv 13:20 43
+Train 55:
+Thursday Lviv 20:13 35
+Train 56:
+Monday Mogilev 06:23 FINISHED
+Train 57:
+Saturday Mogilev 08:05 51
+Train 58:
+Saturday Mogilev 11:22 50
+Train 59:
+Tuesday Mogilev 16:33 45
+Train 60:
+Saturday Novogrudok 08:30 57
+Train 61:
+Saturday Novogrudok 12:37 50
+Train 62:
+Friday Novogrudok 16:30 FINISHED
+Train 63:
+Sunday Orsha 08:28 40
+Train 64:
+Monday Orsha 11:45 40
+Train 65:
+Thursday Orsha 17:27 50
+Train 66:
+Saturday Oslo 09:59 35
+Train 67:
+Tuesday Oslo 12:19 30
+Train 68:
+Thursday Polotsk 15:01 40
+Train 69:
+Monday Prague 14:07 45
+Train 70:
+Monday Prague 22:05 49
+Train 71:
+Tuesday Riga 06:50 45
+Train 72:
+Friday Riga 11:24 55
+Train 73:
+Sunday Riga 13:28 40
+Train 74:
+Saturday Slutsk 16:18 54
+Train 75:
+Wednesday Slutsk 19:14 35
+Train 76:
+Monday Slutsk 19:14 67
+Train 77:
+Tuesday Tallinn 10:11 55
+Train 78:
+Sunday Tallinn 15:50 30
+Train 79:
+Thursday Turku 20:00 40
+Train 80:
+Saturday Turku 20:15 31
+Train 81:
+Thursday Vienna 16:54 47
+Train 82:
+Friday Vilnius 16:54 50
+Train 83:
+Thursday Vilnius 18:30 52
+Train 84:
+Sunday Vilnius 20:01 40
+Train 85:
+Monday Vilnius 20:14 40
+Train 86:
+Monday Vitebsk 13:47 55
+Train 87:
+Wednesday Vitebsk 16:20 19
+Train 88:
+Saturday Vitebsk 16:25 37
+Train 89:
+Wednesday Warsaw 10:40 48
+Train 90:
+Sunday Warsaw 15:15 45
+Train 91:
+Tuesday Warsaw 18:27 50
+Train 92:
+Friday Wroclaw 00:56 9
+Train 93:
+Friday Zurich 12:44 35
+Train 94:
+Monday Zurich 15:00 52
